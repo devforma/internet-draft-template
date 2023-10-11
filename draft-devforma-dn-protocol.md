@@ -4,7 +4,7 @@ abbrev: "TODO - Abbreviation"
 category: info
 
 docname: draft-devforma-dn-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: independent  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
@@ -12,9 +12,7 @@ v: 0
 # area: AREA
 # workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - dn
 venue:
 #  group: WG
 #  type: Working Group
@@ -27,7 +25,7 @@ author:
  -
     fullname: "MaBingtao"
     organization: "Yunqi Academy"
-    email: "devforma@gmail.com"
+    email: "devforma@hotmail.com"
 
 normative:
 
