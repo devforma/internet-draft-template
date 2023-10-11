@@ -1,5 +1,5 @@
 ---
-title: "test title"
+title: "draft of datanet protocol"
 abbrev: "TODO - Abbreviation"
 category: info
 
@@ -26,8 +26,8 @@ venue:
 author:
  -
     fullname: "MaBingtao"
-    organization: Your Organization Here
-    email: "devforma@users.noreply.github.com"
+    organization: "Yunqi Academy"
+    email: "devforma@gmail.com"
 
 normative:
 
