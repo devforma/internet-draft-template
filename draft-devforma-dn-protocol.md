@@ -1,9 +1,9 @@
 ---
-title: "draft of dn protocol version 01"
+title: "draft of dn protocol version 02"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-devforma-dn-protocol-01
+docname: draft-devforma-dn-protocol-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -21,7 +21,7 @@ venue:
 #  mail: WG@example.com
 #  arch: https://example.com/WG
   github: "devforma/internet-draft-template"
-  latest: "https://devforma.github.io/internet-draft-template/draft-datanet-protocol.html"
+  latest: "https://devforma.github.io/internet-draft-template/draft-dn-protocol.html"
 
 author:
  -
