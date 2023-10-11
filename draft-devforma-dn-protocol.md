@@ -1,5 +1,5 @@
 ---
-title: "draft of dn protocol version 02"
+title: "draft of dn protocol version 00"
 abbrev: "TODO - Abbreviation"
 category: info
 
@@ -8,7 +8,7 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-v: 3
+v: 0
 # area: AREA
 # workgroup: WG Working Group
 keyword:
