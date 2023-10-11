@@ -7,7 +7,7 @@ docname: draft-devforma-dn-protocol-latest
 submissiontype: independent  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
-consensus: true
+consensus:
 v: 0
 # area: AREA
 # workgroup: WG Working Group
