@@ -1,9 +1,9 @@
 ---
-title: "draft of datanet protocol"
+title: "draft of dn protocol version 01"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-datanet-protocol-latest
+docname: draft-devforma-dn-protocol-01
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
