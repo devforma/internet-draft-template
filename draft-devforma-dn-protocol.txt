@@ -8,7 +8,7 @@ Intended status: Informational                           11 October 2023
 Expires: 13 April 2024
 
 
-                    draft of dn protocol version 02
+                    draft of dn protocol version 00
                    draft-devforma-dn-protocol-latest
 
 Abstract
